@@ -56,9 +56,16 @@ h4 {
     letter-spacing: 0.25px;
 }
 
+
 img {
     width: 100%;
     overflow: hidden;
+}
+
+
+.contacticon{
+    width: 60px;
+    height: 60px;
 }
 
 ul {
@@ -156,7 +163,7 @@ html {
 
 .menu .author-content span {
     font-size: 13px;
-    font-style: italic;
+    font-style: normal;
     color: #fff;
 }
 
